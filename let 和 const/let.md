@@ -1,4 +1,4 @@
-function letDemo(arg){
+###	function letDemo(arg){
 ## 使用var
 ```javascript
 	// console.log(typeof(a))  //undefined
@@ -13,10 +13,10 @@ function letDemo(arg){
 	// i=11
 	// arr[1]()        //11
 	// console.log(i)  //11
-	```
+```
 	
 ## 使用let代替var
-```javascript
+``` javascript
 	// console.log(typeof(a))  //Cannot access 'a' before initialization
 	// let a 
 	// for(let i = 0 ; i<10;i++){
@@ -99,4 +99,4 @@ letDemo();
 	console.log(window.b)	//undefined
 	
 	
-	```
+```
